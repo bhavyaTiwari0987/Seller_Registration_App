@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(215, 215, 240);
+}
+div{
+    width: 90%;
+    margin:auto;
+    text-align: center;
+    margin-top: 70px;
+}
+h1{
+    color:#68237e;
+    font-weight: 800;
+    font-size: 100px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing: 20px;
+}
+a{
+    width: 20%;
+    padding: 10px;
+    color: #fff;
+    background-color: #1864ab;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 10px;
+    text-decoration: none;
+}
